@@ -1,9 +1,0 @@
-#include<stdio.h>
-
-extern void printHello();
-
-int main()
-{
-	printf("Hello world\n");
-	return 0;
-}
