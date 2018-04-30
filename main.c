@@ -8,6 +8,7 @@ int main()
 
     char* myStr = "test str";
     printf("mystr = %s, len=%d\n",myStr, Mystrlen(myStr));
+	prnitf(dadsa);
 
 	printHello();
 	return 0;
